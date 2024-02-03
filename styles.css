@@ -1,3 +1,10 @@
+#map {
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+  overflow: hidden; /* предотвращает появление полос прокрутки */
+}
+
 button {
     background-color: #DDDDDD; /* серый цвет */
     border: none; /* без рамки */
